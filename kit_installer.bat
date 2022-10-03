@@ -13,7 +13,7 @@ SET PY_VERSION=3.9.8
 SET PY_DOWNLOAD_URL=https://www.python.org/ftp/python/3.9.8/python-3.9.8-amd64.exe
 SET MS_VC_REDIST_URL=https://aka.ms/vs/17/release/vc_redist.x64.exe
 SET REPO_DOWNLOAD_URL=https://github.com/kandi1clickkits/Emojinator/releases/download/v1.0.0/Emojinator.zip
-SET REPO_DEPENDENCIES_URL=https://raw.githubusercontent.com/kandi1clickkits/Emojinator/master/requirements.txt
+SET REPO_DEPENDENCIES_URL=https://raw.githubusercontent.com/kandi1clickkits/Emojinator/main/requirements.txt
 SET REPO_NAME=Emojinator.zip
 where /q python
 IF ERRORLEVEL 1 (
